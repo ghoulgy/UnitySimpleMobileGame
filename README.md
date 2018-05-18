@@ -1,3 +1,9 @@
 # UnitySimpleMobileGame
 <b>Code C#<b>
-<p>Asset > Scripts</p>
+  <div>
+    <p>Asset > Scripts</p>  
+    <p>Link: https://youtu.be/hXcT9W6KnJM?t=129 🙈🙉🙈🙉🙈</p>
+  </div>
+  
+
+
